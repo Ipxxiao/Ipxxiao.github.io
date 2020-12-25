@@ -11,3 +11,6 @@
 3. Alphabetize ( [website](https://ipxxiao.github.io/alphabetize) \| [github](https://github.com/Ipxxiao/alphabetize) )
     - To get chinese pinyin or alphabet from chinese.
     - 提取拼音，返回首字母大写形式；提取首字母，返回大写形式。
+
+4. Kbone-tabs ( [website](https://ipxxiao.github.io/kbone-tabs) \| [github](https://github.com/Ipxxiao/kbone-tabs) )
+    - An easy tab component for Kbone
